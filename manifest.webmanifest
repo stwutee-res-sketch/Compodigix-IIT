@@ -1,0 +1,19 @@
+{
+  "name": "CompoDigix · IIT Indore",
+  "short_name": "CompoDigix",
+  "description": "Compost plant design and decision support: recipe and mass balance, six composting systems, construction drawings, FCO quality grading and market price. STWUTEE Research Group, IIT Indore.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2f6b2f",
+  "lang": "en",
+  "categories": ["utilities", "education", "productivity"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

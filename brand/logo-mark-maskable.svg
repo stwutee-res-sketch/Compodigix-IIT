@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><clipPath id="cdxClip"><rect width="64" height="64"/></clipPath></defs><rect width="64" height="64" fill="#2f6b2f"/><rect y="56" width="64" height="8" fill="#5d4037"/><g transform="translate(32 32) scale(.82) translate(-32 -32)">
+<g clip-path="url(#cdxClip)">
+<path d="M14 24.5c-2-2.6 2-4.6 0-7.2s2-4.6 0-7.2M24.5 22c-2-2.6 2-4.6 0-7.2s2-4.6 0-7.2" fill="none" stroke="#fff" stroke-opacity=".9" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M-2 66V50C8 40 18 31 30 29.5c12-1.5 22 6 36 18V66z" fill="#a1764a"/>
+<path d="M6 46c8-6 15-10 24-11 10-1 18 3 27 10M2 54c9-6 18-10 28-11 11-1 21 3 34 11" fill="none" stroke="#c99a68" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M-2 58C14 55 30 54 46 55s14 2 20 3V66H-2z" fill="#5d4037"/>
+<path d="M44 30.5v-9" stroke="#c5e1a5" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M44 23.5c-1-5.4-5.3-8.4-10.6-8.2 1 5.3 5 8.4 10.6 8.2z" fill="#9ccc65"/>
+<path d="M44 21.2c.6-5.6 4.6-9.2 10.2-9.6-.4 5.6-4.4 9.4-10.2 9.6z" fill="#c5e1a5"/>
+<circle cx="18" cy="44" r="1.6" fill="#5d4037"/><circle cx="36" cy="40" r="1.4" fill="#5d4037"/><circle cx="48" cy="48" r="1.5" fill="#5d4037"/>
+</g>
+</g></svg>
